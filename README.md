@@ -7,7 +7,7 @@ Thank you Git hub Success team.
 
 Successfully Created few Projects on IBM Watson Studio with appropriate Code,Mehods,Accuracy metrics and Techniques;
 
-Kalyani
+G.Kalyani Reddy
 
 ML Engineer
 
